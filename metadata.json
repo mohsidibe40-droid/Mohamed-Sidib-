@@ -1,0 +1,6 @@
+{
+  "name": "SIDIBÉ STUDIO AI",
+  "description": "Studio de création intelligent avec une équipe d'agents IA spécialisés pour transformer une idée en un projet complet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
